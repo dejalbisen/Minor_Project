@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Minor_Project/static/css/main.c7152366.css",
+    "main.js": "/Minor_Project/static/js/main.de1967bd.js",
+    "index.html": "/Minor_Project/index.html",
+    "main.c7152366.css.map": "/Minor_Project/static/css/main.c7152366.css.map",
+    "main.de1967bd.js.map": "/Minor_Project/static/js/main.de1967bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c7152366.css",
+    "static/js/main.de1967bd.js"
+  ]
+}
